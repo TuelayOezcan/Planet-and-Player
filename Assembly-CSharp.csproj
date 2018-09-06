@@ -10,7 +10,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace>
     </RootNamespace>
-    <ProjectGuid>{A395EA3E-FDD5-56D1-545C-8271DD864878}</ProjectGuid>
+    <ProjectGuid>{E5995CE3-228C-65BD-FBFC-12E7358E024A}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -66,16 +66,16 @@
     <Compile Include="Assets\Scenes\Script\FauxGravityBody.cs" />
     <Compile Include="Assets\Scenes\Script\PlayerController.cs" />
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>/Users/tulayozcan/Desktop/Planet/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>/Users/tulayozcan/Desktop/GitHub/Die-Antibiotika-/Planet and Player/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>/Users/tulayozcan/Desktop/Planet/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>/Users/tulayozcan/Desktop/GitHub/Die-Antibiotika-/Planet and Player/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>/Users/tulayozcan/Desktop/Planet/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>/Users/tulayozcan/Desktop/GitHub/Die-Antibiotika-/Planet and Player/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>/Users/tulayozcan/Desktop/Planet/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>/Users/tulayozcan/Desktop/GitHub/Die-Antibiotika-/Planet and Player/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
